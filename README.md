@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @srknkcn
-- 👀 I’m interested in horizontally in all technological processes. Like a SPA framework, Backend optimizations, CI/CD, Linux open source alternatives, Endpoint Security for Enterprises
-- 🌱 I’m currently learning a better DevOps career.
-- 💞️ I’m looking to collaborate on Docker and Kubernates technologies.
-- 📫 You can reach me from my twitter account
+- 👀 I’m interested in horizontally in all technological processes. Like a SPA framework, Backend optimizations, CI/CD, Linux open source alternatives, Endpoint Security for Enterprises.
+- 🌱 I am trying with pleasure to become a much better DevOps career.
+- 💞️ I want to work more actively on Kubernetes, Linux, CI/CD, .Net Core, SPA Frameworks technologies.
+- 📫 You can reach me from my linkedin account
 
 <!---
 srknkcn/srknkcn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
